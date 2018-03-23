@@ -1,0 +1,63 @@
+.jumbotron{
+  background-image: url(../images/landing.jpg);
+  margin-right: 28px;
+  font-size: 34px;
+  width: auto;
+  height: 600px;
+}
+.logo{
+  padding-left: 0px;
+  margin: 2px 250px;
+}
+.img{
+  margin: 50px;
+}
+.head{margin-right: 0px 0px;
+  padding-right: 20px;
+  text-align: center;
+  font-size: 14px;
+}
+.foods{
+  margin-bottom: 10px;
+}
+.food-pics, .drinks-pics{
+  padding: 20px;
+  border: 2px solid grey;
+  box-shadow: 2px 2px 2px 2px grey;
+}
+#breakfast{
+  background-image: url(../images/breakfast.jpg);
+  background-size : cover;
+  height: 200px;
+  width: auto;
+  font-size: 45px;
+  text-align: center;
+}
+#dinner{
+  background-image: url(../images/dinner.jpg);
+  background-size: cover;
+  height: 200px;
+  width: auto;
+  font-size: 45px;
+  text-align: center;
+}
+#lunch{background-image: url(../images/lunch.jpg);
+  background-size: cover;
+  height: 200px;
+  width: auto;
+  font-size: 45px;
+  text-align: center;
+}
+#party{background-color: grey;
+  height: 100px;
+  width: auto;
+  font-size: 45px;
+  text-align: center;
+}
+#happy{
+  background-color: orange;
+  height: 100px;
+  width: auto;
+  font-size: 45px;
+  text-align: center;
+}
