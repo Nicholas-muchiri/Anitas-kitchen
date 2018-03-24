@@ -80,7 +80,7 @@
    #contact {
     clear: both;
      display: block;
-     width: 1500px;
+     width: 1420px;
      height: 300px;
      background-image: url("../images/subscribe.jpg");
      text-align: center;
@@ -88,3 +88,18 @@
      font-size: 30PX;
      color: white;
    }
+   #footer {
+     width: 1420px;
+     height: 300px;
+     background-color: #ff5733;
+     padding-top: 50px;
+     padding-right: 190px;
+     font-size: 20px;
+     text-align: center;
+     color: white;
+   }
+   #ftMenu {
+     width: 600px;
+     margin: auto;
+     font-size: 40px;
+    }
